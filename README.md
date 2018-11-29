@@ -39,3 +39,6 @@
 &emsp;[5.5 数据压缩](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter5_5)<br />
 ### [第6章 背景](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter6)<br />
 ### [官方代码](https://github.com/jimmysuncpt/Algorithms/tree/master/src/edu/princeton/cs/algs4)<br />
+=======
+# algorithms-answers
+algorithms-answers
